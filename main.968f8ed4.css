@@ -1,0 +1,2 @@
+body{background-color:#000}#space{position:absolute;width:100%;top:0;height:50%;display:flex;justify-content:center;align-items:flex-end;gap:8px;--box-size:40px}.boxContainer{position:relative}.box,.boxContainer{width:var(--box-size)}.box{height:var(--box-size);background:#eee;transform-origin:center bottom;border-radius:50%;cursor:pointer}.dust{position:absolute;bottom:-25px!important;left:0;right:0;height:2px;bottom:0;background-color:#ccc}
+/*# sourceMappingURL=/jumping-ball-animation/main.968f8ed4.css.map */
